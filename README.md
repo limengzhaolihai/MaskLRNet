@@ -1,4 +1,4 @@
-# MaskLRNet: Lightweight CNN with Diagonal-Rank Convolutions
+# MaskLRNet: Rethinking the Design of Lightweight CNNs with Decomposed Convolutions
 
 "A lightweight convolutional neural network for edge computing environments, achieving high-accuracy object detection with low computational cost."
 
